@@ -1,45 +1,27 @@
 [
 
 {"date": "2014-02-26 00:00:00 -0500",
-"categories": [],
-"tags": [],
-"title": "Test Post",
-"url": "/2014/02/26/testy+copy+4.html"},
-
-{"date": "2014-02-26 00:00:00 -0500",
-"categories": [],
-"tags": [],
-"title": "Test Post",
-"url": "/2014/02/26/testy+copy+3.html"},
-
-{"date": "2014-02-26 00:00:00 -0500",
-"categories": [],
-"tags": [],
-"title": "Test Post",
-"url": "/2014/02/26/testy+copy+2.html"},
-
-{"date": "2014-02-26 00:00:00 -0500",
-"categories": [],
-"tags": [],
-"title": "Test Post",
-"url": "/2014/02/26/testy+copy.html"},
-
-{"date": "2014-02-26 00:00:00 -0500",
-"categories": [],
-"tags": [],
-"title": "Test Post",
-"url": "/2014/02/26/testy.html"},
-
-{"date": "2013-08-20 00:00:00 -0400",
-"categories": ["blog"],
-"tags": [],
-"title": "Sample post",
-"url": "/blog/2013/08/20/sample-post.html"},
+"categories": ["novel","city","holo"],
+"tags": ["perec","house","paris"],
+"title": "My apartment",
+"url": "/novel/city/holo/2014/02/26/apartment.html"},
 
 {"date": "2013-08-12 00:00:00 -0400",
 "categories": ["blog"],
-"tags": [],
-"title": "Another sample",
-"url": "/blog/2013/08/12/another-sample.html"},
+"tags": ["pop culture","girls"],
+"title": "Girl's generation Taeyeon is not my sister",
+"url": "/blog/2013/08/12/taeyeon.html"},
+
+{"date": "2013-08-12 00:00:00 -0400",
+"categories": ["novel","city","blog"],
+"tags": ["paris"],
+"title": "Proust's dream",
+"url": "/novel/city/blog/2013/08/12/another-sample.html"},
+
+{"date": "2013-08-12 00:00:00 -0400",
+"categories": ["art history","painting","blog"],
+"tags": ["Walter Benjamin","Paradise"],
+"title": "Klee's painting",
+"url": "/art%20history/painting/blog/2013/08/12/Kleespainting.html"},
 
 false]
