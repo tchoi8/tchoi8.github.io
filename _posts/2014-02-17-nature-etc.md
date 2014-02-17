@@ -5,8 +5,9 @@ excerpt: notes on post-industrial landscape, as extension of urbanism.
 tags: 
 - collaboration
 - urbanism
-categories:
 - email
+categories:
+- blog
 ---
 *This material has been minorly edited and formatted to be shared online.*
 
@@ -44,10 +45,10 @@ http://www.shandakenproject.org/
 
 I've meet the director and met the artists who participated in past year. I was thinking if you guys are interested, I can collaborate with you on the call? or I can write it and have you as potential collaborator too. 
 
-*Also the brain book im reading is really good
+* Also the brain book im reading is really good
 I couldn't find pdf of the whole book so I got it
 http://www.amazon.com/Synaptic-Self-How-Brains-Become/dp/0142001783
-the book that got me into that one is 
+* the book that got me into that one is 
 http://www.amazon.com/Should-Brain-Perspectives-Continental-Philosophy/dp/082322953X/ref=sr_1_2?ie=UTF8&qid=1392657265&sr=8-2&keywords=catherine+malabou
 which you can find pdf in aaaaarg and so on.
 
