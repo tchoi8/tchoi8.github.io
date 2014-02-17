@@ -1,4 +1,13 @@
-
+---
+layout: post
+title: To remember and forget    
+excerpt: How can we learn to remember and how can we learn to forget
+tags: 
+- teaching
+- memory
+categories:
+- teaching
+---
 *This is a work in progress proposal for a series of lecture and workshop. The series will be ideally hosted at a higher level academic institution or art space in collaboration with research labs. This series is an attempt to explore how human brain works in relation to computational technology.*
 
 **How can we learn to remember and how can we learn to forget?** 
