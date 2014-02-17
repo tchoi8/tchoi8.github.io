@@ -6,22 +6,22 @@
 "title": "My apartment",
 "url": "/novel/city/holo/2014/02/26/apartment.html"},
 
-{"date": "2013-08-12 00:00:00 -0400",
+{"date": "2014-02-17 00:00:00 -0500",
+"categories": ["blog"],
+"tags": ["collaboration","urbanism","email"],
+"title": "nature",
+"url": "/blog/2014/02/17/nature-etc.html"},
+
+{"date": "2014-02-17 00:00:00 -0500",
+"categories": ["teaching"],
+"tags": ["teaching","memory"],
+"title": "To remember and forget",
+"url": "/teaching/2014/02/17/memory-class.html"},
+
+{"date": "2014-02-11 00:00:00 -0500",
 "categories": ["blog"],
 "tags": ["pop culture","girls"],
-"title": "Girl's generation Taeyeon is not my sister",
-"url": "/blog/2013/08/12/taeyeon.html"},
-
-{"date": "2013-08-12 00:00:00 -0400",
-"categories": ["novel","city","blog"],
-"tags": ["paris"],
-"title": "Proust's dream",
-"url": "/novel/city/blog/2013/08/12/another-sample.html"},
-
-{"date": "2013-08-12 00:00:00 -0400",
-"categories": ["art history","painting","blog"],
-"tags": ["Walter Benjamin","Paradise"],
-"title": "Klee's painting",
-"url": "/art%20history/painting/blog/2013/08/12/Kleespainting.html"},
+"title": "going on a date",
+"url": "/blog/2014/02/11/dating.html"},
 
 false]
