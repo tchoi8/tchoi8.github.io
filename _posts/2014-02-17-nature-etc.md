@@ -25,7 +25,7 @@ Since we are hyper-connected most of the time to the Internet and spatial data, 
 
 I've been re-inspired by the work of my friends, [Mary Mattingly](http://www.marymattingly.com) and [Jon Cohrs](http://splnlss.com). Jon is the artist who makes films about post-industrial landscape and flavoring factories in New Jersey Meadowlands. And Mary, as you may know, has been working on various mobile habitats based on post-apocalyptic scenarios. 
 
-We did few projects together (my role was often curatorial) in Eyebeam and Korea. For example, [Resistance and Resilience](http://resistance-resilience.org) was a show we did in Bennington College, and here are some picturess from the crazy roadtrip I co-organized in the sites for developing canals in Korea. [](http://www.flickr.com/photos/24775692@N04/sets/72157628130560686)
+We did few projects together (my role was often curatorial) in Eyebeam and Korea. For example, [Resistance and Resilience](http://resistance-resilience.org) was a show we did in Bennington College, and [here](http://www.flickr.com/photos/24775692@N04/sets/72157628130560686) are some picturess from the crazy roadtrip I co-organized in the sites for developing canals in Korea.  
 ![](http://farm7.staticflickr.com/6214/6345588139_e55eaf1c82_z.jpg)
 *photos by Noh Suntag. Roadshow:South Korea was a collaboration between Eyebeam Art and Technology Center and Total Museum*
 
