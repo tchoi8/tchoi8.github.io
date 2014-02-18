@@ -8,17 +8,17 @@ tags:
 categories:
 - teaching
 ---
-*This is a work in progress proposal for a series of lecture and workshop. The series will be ideally hosted at a higher level academic institution or art space in collaboration with research labs. This series is an attempt to explore how human brain works in relation to computational technology.*
+*This is a work in progress proposal for a series of lecture and workshop. The series will be ideally hosted at a higher level academic institution or art space in collaboration with research labs. This series will explore how human brain works in relation to computational technology.*
 
 **How can we learn to remember and how can we learn to forget?** 
   
 Neuroscientist Joseph LeDoux explains plasticity of synapses in our brain is the core mechanism that enables human sense of self. Thus we know that we exist by remembering things past and anticipating things to come. 
 
-How is our sense of self transforming in presence of computational technology in daily life? And specifically, what role does mobile devices play in our communication with past and present? By finding answers to these questions, we can begin to understand integration among mediation of experience, construction of memory, archival desire and permanence of storage.  
+How is our sense of self transforming with computational technology in daily life? And specifically, what role does mobile device play in our communication with past and present? By finding answers to these questions, we can begin to understand integration of mediated experience, constructed memory and permanent storage.  
 
-Revolutionary developments occurred simultaneously in computer science and neuroscience since the 60s. However, neuroscience seem to have had less greater effect in the realm of art and culture, while the popular recognition of Cybernetics and Artificial Intelligence continues to inspire the notion of thinking and feeling machines. We will examine the history of art and computation as a sustained pursuit to understand human nature.
+Revolutionary developments occurred simultaneously in computer science and neuroscience since the 60s. However, neuroscience have had less greater effect in the realm of art and culture, while popular recognition of Cybernetics and Artificial Intelligence continues to inspire notions of thinking and feeling machines. 
  
-The series aims to be an opportunity to engage in critical thinking on technical topics ranging from neuroscience, analog computers to object oriented programming in its social context. For example, dominant paradigm of cybernetics in post war United States in relation to abstraction in visual art. Towards the second half of the series, participants will be encouraged to make new work (research or art work) inspired by technical and theoretical possibility of recently gained understanding in human brain and computation.  
+This series is an opportunity to engage in critical thinking on technical topics ranging from neuroscience, analog computers to object oriented programming in its social context. We will examine the history of art and computation in relation to the sustained pursuit in understanding human nature. For example, dominant paradigm of cybernetics in post war United States in relation to abstraction in visual art. Towards the second half of the series, participants will be encouraged to make new work (research or art work) inspired by technical and theoretical possibility of recently gained understanding in human brain and computation.    
 
   
 ---
