@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Appropriate Store 
-excerpt: This project is a proposition to live in an unreal time in real-time world. 
+excerpt: A shop for electronic device and software that subvert common expectations.
+ 
 tags: 
 - research
 - collaboration
