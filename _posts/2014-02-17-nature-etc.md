@@ -9,7 +9,7 @@ tags:
 categories:
 - blog
 ---
-*This material has been minorly edited and formatted to be shared online.*
+*This was an email sent to two friends. This material has been minorly edited and formatted to be shared online.*
 
 Dear [Ellie](http://ellieirons.com/) and [Dan](http://phiffer.org/)
 
@@ -36,7 +36,7 @@ So I know you guys (especially Ellie) are interested in these topic. I wanted to
 And my key question is. 
 **Is it possible to reconstruct image of nature as nature would see itself?** 
 
-I think the question is related to my thinking about computation, in that I think about the meaning of computers without humans, thus communication without humans, or messages.[Excommunications](http://press.uchicago.edu/ucp/books/book/chicago/E/bo14413838.html), new book by Galloway, Thacker and Wark is guiding me with this thought. Can we apply what we learn from such reductionist approach (or radical minimalism) to the medium (tools, or techniques) toward nature and environment? 
+I think the question is related to my thinking about computation, in that I think about the meaning of computers without humans, thus communication without humans, or messages. [Excommunications](http://press.uchicago.edu/ucp/books/book/chicago/E/bo14413838.html), new book by Galloway, Thacker and Wark is guiding me with this thought. Can we apply what we learn from such reductionist approach (or radical minimalism) to the medium (tools, or techniques) toward nature and environment? 
 
 Also, I'm kind of keen of landscapes that show resilience and resistance between nature and urban spaces. Like highways and parks, and ski resorts and golf courses. I think they reflect my conflicted desire to enjoy nature (by possibly the most capitalist notion of enjoyment - ski and vacations, and hope for preservation and integration with the whole earth) 
 
@@ -44,7 +44,7 @@ Anyways. maybe this residency in [Shandanken](http://www.shandakenproject.org/) 
 
 I've meet the director and met the artists who participated in past year. I was thinking if you guys are interested, I can collaborate with you on the call? or I can write it and have you as potential collaborator too. 
 
-Also the brain book im reading is really good [Synaptic self](http://www.amazon.com/Synaptic-Self-How-Brains-Become/dp/0142001783)and the book that got me into that one is actually [What should we do with our brain?](http://www.amazon.com/Should-Brain-Perspectives-Continental-Philosophy/dp/082322953X/)
+Also the brain book im reading is really good [Synaptic self](http://www.amazon.com/Synaptic-Self-How-Brains-Become/dp/0142001783) and the book that got me into that one is actually [What should we do with our brain?](http://www.amazon.com/Should-Brain-Perspectives-Continental-Philosophy/dp/082322953X/)
  
 talk more! 
 
