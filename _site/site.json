@@ -1,5 +1,11 @@
 [
 
+{"date": "2014-02-18 00:00:00 -0500",
+"categories": ["proposal"],
+"tags": ["art","solo"],
+"title": "Nyfa",
+"url": "/proposal/2014/02/18/nyfa.html"},
+
 {"date": "2014-02-17 00:00:00 -0500",
 "categories": ["blog"],
 "tags": ["collaboration","urbanism","email"],
@@ -23,6 +29,12 @@
 "tags": ["research","collaboration"],
 "title": "In search of relative time",
 "url": "/proposal/2014/02/01/relativetime.html"},
+
+{"date": "2014-01-28 00:00:00 -0500",
+"categories": ["proposal"],
+"tags": ["research","collaboration"],
+"title": "moises",
+"url": "/proposal/2014/01/28/moisestest.html"},
 
 {"date": "2014-01-28 00:00:00 -0500",
 "categories": ["proposal"],
