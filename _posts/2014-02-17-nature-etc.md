@@ -53,3 +53,31 @@ ty
 2/17/2013 
 12:20pm
 Brooklyn, New York.  
+
+---
+
+This is an email written in reply to the above correspondence, by [Ellie](http://ellieirons.com/) with some input from  [Dan](http://phiffer.org/)
+
+Hey Taeyoon,
+
+Thanks for the thoughts- we were definitely brushing up against things I've thought about a lot (and want to think about more!) during our fondue evening. I agree, the conversations should continue, and perhaps grow into more than just conversation! 
+
+There is a lot that interests me in references you just sent, and lots of reading I'd love to look into, but only know vaguely- I did a lot of reading and research on art/environment/ecology topics from other angles last semester for my DIAP class, and would like to mesh some other perspectives into it: http://aita.ellieirons.com/#/readings
+
+Your interest in borders and territories (and their interface with spatial data, networking, GPS) is something I think both Dan and I are interested in. Related to the concept of the postindustrial landscape and borders, I've been interested for a while now in the concept of the "[edge effect](http://en.wikipedia.org/wiki/Edge_effects)" which in ecology refers to places where two different landscape structures come together (like a meadow and a forest)…these regions tend to be the richest & most productive because the organisms that use these regions have a higher diversity of options (they can choose from both). These are the kinds of things I like to think about in relation to urban, suburban and ex-urban spaces, especially those regions that may be "rewilding" due to neglect, decay etc. Thinking about mapping and border drawing from the perspective of the physicality of the land (watersheds/water flow, soil composition, surface type) can allow for new ways of understanding how we divide and use land.
+
+Along the lines of the communication thing (computers without humans, communicating by themselves/to themselves) this is slightly different, but I've been fascinated for the past few months by new understandings of the way plants communicate. They do, just in ways that don't mean much to us, and are hard to decipher because their time frame is so different. Great description of the state of the research Michael Pollan's NY'r article, [The Intelligent Plant](http://www.newyorker.com/reporting/2013/12/23/131223fa_fact_pollan?currentPage=all).  And of course this crazy documentary from the 70s which maybe you've seen (it's been largely debunked, but the new research puts it back in the spotlight again): http://www.youtube.com/watch?v=7_X2Z9v8-6Q
+
+A few other references in this area that I've been looking at/thinking about:
+
+[Bruce Sterling's keynote for Art + Environment Conference](http://boingboing.net/2011/12/02/bruce-sterling-keynote-from-ar.html)  
+[Making the Geologic Now](http://www.geologicnow.com/)  
+Timothy Morton on Hyperobjects, [Ecology without Nature](http://ecologywithoutnature.blogspot.com/) etc  
+
+The Shandaken Project looks awesome. I'm all for time upstate, and time spent upstate contemplating with like-minded folks, then all the better. I'm happy to help with an application in whatever way seems useful…
+
+Good luck with the upcoming trip, and let's be in touch!
+
+-Ellie  
+2/17/14  
+Brooklyn, NY
