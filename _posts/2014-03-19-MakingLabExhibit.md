@@ -21,7 +21,7 @@ Overview of Making Lab Exhibition
 
 Eunpa Industries Kit section
 
-<img src="http://farm4.staticflickr.com/3829/13262610483_72cbc451dc_b.jpg">
+<img src="http://farm4.staticflickr.com/3829/13262610483_72cbc451dc_c.jpg">
 
 Kobakant's Wishlab section
 
