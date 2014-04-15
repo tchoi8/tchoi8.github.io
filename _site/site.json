@@ -1,9 +1,27 @@
 [
 
+{"date": "2014-04-15 00:00:00 -0400",
+"categories": [],
+"tags": [],
+"title": "Memory Class Itp",
+"url": "/2014/04/15/memory-class-ITP.html"},
+
+{"date": "2014-03-19 00:00:00 -0400",
+"categories": ["proposal"],
+"tags": ["research","collaboration"],
+"title": "Making Lab Exhibit",
+"url": "/proposal/2014/03/19/MakingLabExhibit.html"},
+
+{"date": "2014-03-05 00:00:00 -0500",
+"categories": ["proposal"],
+"tags": ["research","collaboration"],
+"title": "Sfpc Spring",
+"url": "/proposal/2014/03/05/SFPC.html"},
+
 {"date": "2014-02-18 00:00:00 -0500",
 "categories": ["proposal"],
 "tags": ["art","solo"],
-"title": "Nyfa",
+"title": "NYFA",
 "url": "/proposal/2014/02/18/nyfa.html"},
 
 {"date": "2014-02-17 00:00:00 -0500",
@@ -29,12 +47,6 @@
 "tags": ["research","collaboration"],
 "title": "In search of relative time",
 "url": "/proposal/2014/02/01/relativetime.html"},
-
-{"date": "2014-01-28 00:00:00 -0500",
-"categories": ["proposal"],
-"tags": ["research","collaboration"],
-"title": "moises",
-"url": "/proposal/2014/01/28/moisestest.html"},
 
 {"date": "2014-01-28 00:00:00 -0500",
 "categories": ["proposal"],
