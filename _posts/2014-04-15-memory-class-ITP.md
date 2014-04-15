@@ -1,14 +1,16 @@
 ---
 layout: post
-title: To remember and forget: Memory and Machine    
-excerpt: Class at New York University's ITP program 
+title: To Remember and Forget - Memory and Machine 
+excerpt:  A class at New York University's ITP
 tags: 
-- teaching
-- memory
+- research
+- collaboration
 categories:
-- teaching
+- proposal
 ---
-*This is a class proposal for <a href="http://itp.nyu.edu/sigs/program/">NYU ITP</a> in Fall of 2014. For more information on this <a href="http://tchoi8.github.io/teaching/2014/02/17/memory-class.html">class.</a>* 
+ 
+
+*This is a class proposal for <a href="http://itp.nyu.edu/sigs/program/">NYU ITP</a> in Fall of 2014.* 
 
 
 
@@ -62,6 +64,7 @@ For Proust, eating madeleine with tea brought back certain memory. In our daily 
 Student output: The class will have a picnic and students will tell a story about the memories related to the food they prepared. 
 
 **Week 5 Presence**
+
 What makes human presence different from animal or object? How do we feel comfort or fear in presence of another person? What kind of change happens in our consciousness in crowd and in solitude?
 
 * Alva Noë, Varieties of presence (Harvard University Press, 2012)  
@@ -78,6 +81,7 @@ How did the history of few disciplines; Cognitive Science, Human Compute Interac
 Student output:  Students will break into groups of three and help each other brainstorm possible use scenario for their device to help forget.  
 
 **Week 7 Technical objects** 
+
 What is Gilbert Simondon’s concept of tools and instruments? And why is his thoughts on technical objects, automation and open machine relevant now? 
 
 * Gilbert Simondon, Du mode d’existence des objets techniques (Méot, 1958; second ed. Paris: Aubier, 1989). - English translation provided by the lecturer
