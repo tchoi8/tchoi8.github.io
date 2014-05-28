@@ -34,7 +34,7 @@ How is memory shaped by technical reproduction and visual representation? Why is
 
 * Catherine Malabou, What Should We Do With Our Brain? (New York: Fordham University Press, 2009, trans. Sebastian Rand)
 * Susan Buck-Morss, Dreamworld and Catastrophe: The Passing of Mass Utopia in East and West (Cambridge: MIT Press, 2000)
-Jacques Derrida, Archive desire: A Freudian Impression (University of Chicago Press,1998)
+*Jacques Derrida, Archive desire: A Freudian Impression (University of Chicago Press,1998)
 Student output: Read Jacques Derrida's Notes upon the Mystic Writing Pad and write 500 words or longer reflection on the class blog. 
   
 **Week 2 Neural plasticity**
