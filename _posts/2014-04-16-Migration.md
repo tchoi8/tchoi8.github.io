@@ -1,11 +1,7 @@
-
 ---
 layout: post
 title: Migration
-excerpt:  Few links about migration
-tags: 
-- research
-- collaboration
+excerpt: Few links about migration
 categories:
 - blog
 ---
