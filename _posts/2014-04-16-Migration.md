@@ -1,5 +1,15 @@
 
-
+---
+layout: post
+title: Migration
+excerpt:  Few links about migration
+tags: 
+- research
+- collaboration
+categories:
+- blog
+---
+ 
 
 * Migration-as-Transition: Pre-Post-1997 Hong Kong Culture in Clara Law's Autumn Moon <a href="http://intersections.anu.edu.au/issue4/yue.html"> link </a>
 * On the Edge of Spaces: Blade Runner, Ghost in the Shell , and Hong Kong's Cityscape <a href="http://www.depauw.edu/sfs/backissues/80/wong80art.htm"> link </a>
