@@ -40,7 +40,7 @@ There are some other questions I would like to keep thinking as I proceed with n
 6/18/2014
 Brooklyn
 
-Situations: New Rules of Public Art <a href="http://publicartnow.com/2013/12/12/the-new-rules-of-public-art/" link </a>
+Situations: New Rules of Public Art <a href="http://publicartnow.com/2013/12/12/the-new-rules-of-public-art/"> link </a>
 
 Pablo Helguera: Educations for socially engaged art <a href="http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/"> link </a>
 
