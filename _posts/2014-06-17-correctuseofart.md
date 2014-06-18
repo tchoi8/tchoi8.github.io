@@ -39,5 +39,10 @@ How can an artist make social change through an art project on their own? What a
   
 
  
+6/18/2014
+Brooklyn
+
+
+-------
  
  
