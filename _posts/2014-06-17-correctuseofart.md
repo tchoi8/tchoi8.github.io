@@ -13,7 +13,7 @@ For a while I thought there needs to be a clear distinction between things I do 
  
 <img src="https://farm4.staticflickr.com/3923/14261916900_d6f37048cc_z.jpg">
 
-I used to think binary between art as something I want to do and everything else as something the world needs from me.  It got confusing once I started to question social value of art and job I was doing. After completing few projects, as achievements as well as oversights, I'm realizing that the two are not completely separate and maybe some combinations the two can lead to realizations of ideas that are seemingly impossible on its own.
+The simplification of thinking binary between art as something I want to do and everything else as something the world needs from me can be convenient. It got confusing once I started to question social value of art and job I was doing. After completing few projects, as achievements as well as oversights, I'm realizing that the two are not completely separate and maybe some combinations the two can lead to realizations of ideas that are seemingly impossible on its own.
  
 Granted that the role of art does not need to be solely aesthetic or utilitarian, I am fascinated by projects that can be provocation and solution at the same time. 
 
@@ -23,7 +23,7 @@ When art becomes tools, it can be used as a vehicle for social change, empowerme
  
 <img src="https://farm4.staticflickr.com/3880/14262090737_74f79a16a0_z.jpg">
 
-If  taken out of proper contextualization, empowerment can sometimes be easily confused with entitlement.  Art institutions can be mislead toward privileging the ones who are already privileged, or worsen the disparity and antagonism.  Access to tools and space that are a momentary fix do not lead to sustained environment for creativity. 
+If  taken out of careful contextualization, empowerment can sometimes be easily confused with entitlement.  Art institutions can be mislead toward privileging the ones who are already privileged, or worsen the disparity and antagonism.  Access to tools and space that are a momentary fix do not lead to sustained environment for creativity. 
 
 <img src="https://farm4.staticflickr.com/3914/14447172312_4aef9dea48_z.jpg">
 
@@ -31,7 +31,9 @@ What kind of social missions can we achieve with art? other than applying social
 
 <img src="https://farm3.staticflickr.com/2902/14447408074_74f79a16a0_z.jpg">
  
-The easy answer to initial question is simply, there is not correct use of art. I think good use of art can be when it is a tool for personal and shared goal. 
+The easy answer to initial question is simply, there is not correct use of art. It can be aesthetic, social or utilitarian, and one is not more correct than the other.
+
+I think one good use of art can be when it is a tool for shared goal. 
 
 There are some other questions I would like to keep thinking as I proceed with new body of work. How can an artist make social change through an art project on their own? What are the ways for a small scale project with little budget to make meaningful impact? How can art spaces: museums, galleries and studios operate as a space to support social change? 
   
