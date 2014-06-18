@@ -2,21 +2,15 @@
 layout: post
 title: To Remember and Forget - Memory and Machine 
 excerpt:  A class at New York University's ITP
-tags: 
-- research
-- collaboration
 categories:
-- proposal
+- blog
 ---
  
 
 *This is a class proposal for <a href="http://itp.nyu.edu/sigs/program/">NYU ITP</a> in Fall of 2014.* 
 
 
-
-To Remember and Forget: Memory and Machine
-====
-
+To Remember and Forget: Memory and Machine 
 
 What happens in our brain when we remember and when we forget? How is our sense of memory transforming with computational technology in daily life? How do we rely on the mobile devices to assist memory and store in permanent storage?  By asking these questions, we begin to understand various factors that are mediating sense of presence and memory. 
 
@@ -34,8 +28,7 @@ How is memory shaped by technical reproduction and visual representation? Why is
 
 * Catherine Malabou, What Should We Do With Our Brain? (New York: Fordham University Press, 2009, trans. Sebastian Rand)
 * Susan Buck-Morss, Dreamworld and Catastrophe: The Passing of Mass Utopia in East and West (Cambridge: MIT Press, 2000)
-*Jacques Derrida, Archive desire: A Freudian Impression (University of Chicago Press,1998)
-
+Jacques Derrida, Archive desire: A Freudian Impression (University of Chicago Press,1998)
 Student output: Read Jacques Derrida's Notes upon the Mystic Writing Pad and write 500 words or longer reflection on the class blog. 
   
 **Week 2 Neural plasticity**
@@ -92,6 +85,4 @@ Student output: Student presentation of device to help forget an event or specif
  
 Reflection on the course and final discussion. 
 
-Reference
----
-Taeyoon's lecture slide <a href="https://speakerdeck.com/tchoi8/black-boxes">example</a>.   
+Reference: Taeyoon's lecture slide <a href="https://speakerdeck.com/tchoi8/black-boxes">example</a>.   
