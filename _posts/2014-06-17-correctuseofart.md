@@ -9,7 +9,7 @@ categories:
 
 <img src="https://farm3.staticflickr.com/2897/14448531125_fb5355efd1_z.jpg">
 
-For a while I thought there needs to be a clear distinction between things I do as an artist and things I do to support myself.  What I considered as art practice was traditional medium of drawing and writing, making objects (involving technology or not) and exhibiting and performing in gallery and art festivals. What I did to get by was through writing, researching,  coordinating, teaching and curating. And there was the other kind of things I wanted to do that was neither art or job, activism. Realizing that the distinction between these things were rather arbitrary and self imposed, I questioned if I have inherited some concept of "The correct use of art" from art school experience. 
+For a while I thought there needs to be a clear distinction between things I do as an artist and things I do to support myself.  What I considered as art practice was traditional medium of drawing and writing, making objects (involving technology or not) and exhibiting and performing in gallery and art festivals. What I did to get by was through writing, researching,  coordinating, teaching and curating. And there was the other kind of things I wanted to do that was neither art or job. Activism and social change is the closest term but it was not quiet similar to artist's social practice or intervention. Realizing that the distinction between these things were rather arbitrary and self imposed, I questioned if I have inherited some concept of "The correct use of art" from art school experience. 
  
 <img src="https://farm4.staticflickr.com/3923/14261916900_d6f37048cc_z.jpg">
 
@@ -21,7 +21,7 @@ Granted that the role of art does not have to be completely aesthetic or utilita
 
 The only constant in the above paragraph is 'social' and everything else are variables. 
 
-When art becomes tools and practices, it can become a vehicle for social change, empowerment and criticism. The term 'social good' is naively positive and 'social change' shadows thinking of humanity as linear evolution. but it is also a challenge to find a word that will represent shared interest of the artist as well as the participants (traditionally speaking, viewers) toward inventive use of art.  
+When art becomes tools and practices, it can become a vehicle for social change, empowerment and criticism. The term 'social good' is naively positive and 'social change' shadows thinking of humanity as linear evolution. It is a challenge to find a word that will represent shared interest of the artist as well as the participants (traditionally speaking, viewers) toward inventive use of art.  
  
 <img src="https://farm4.staticflickr.com/3880/14262090737_74f79a16a0_z.jpg">
 
@@ -42,6 +42,9 @@ There are some other questions I would like to keep thinking as I proceed with n
 6/18/2014
 Brooklyn
 
+Situations: New Rules of Public Art <a href="http://publicartnow.com/2013/12/12/the-new-rules-of-public-art/" link </a>
+
+Pablo Helguera: Educations for socially engaged art <a href="http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/"> link </a>
 
 -------
  
