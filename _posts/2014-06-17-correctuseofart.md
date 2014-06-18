@@ -7,8 +7,6 @@ categories:
 ---
 
 
-Correct use of art.  
-
 <img src="https://farm3.staticflickr.com/2897/14448531125_fb5355efd1_z.jpg">
 
 For a while I thought there is a clear distinction between things I do as an artist and things I do to support myself.  What I considered as art practice include traditional medium of drawing and writing, making objects (involving technology or not) and exhibiting and performing in gallery and art festivals. Doing things to get by included writing, researching,  coordinating, teaching and curating,  which are related to my art practice.  And there is the third kind of activity that I am interested that are neither art or job, which is activism and social change. 
