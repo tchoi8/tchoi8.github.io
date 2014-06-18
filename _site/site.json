@@ -1,5 +1,23 @@
 [
 
+{"date": "2014-06-17 00:00:00 -0400",
+"categories": ["blog"],
+"tags": [],
+"title": "Correct use of art",
+"url": "/blog/2014/06/17/correctuseofart.html"},
+
+{"date": "2014-04-20 00:00:00 -0400",
+"categories": [],
+"tags": [],
+"title": "Greenlab",
+"url": "/2014/04/20/GreenLab.html"},
+
+{"date": "2014-04-16 00:00:00 -0400",
+"categories": [],
+"tags": [],
+"title": "Migration",
+"url": "/2014/04/16/Migration.html"},
+
 {"date": "2014-04-15 00:00:00 -0400",
 "categories": ["proposal"],
 "tags": ["research","collaboration"],
@@ -25,10 +43,10 @@
 "url": "/blog/2014/02/17/nature-etc.html"},
 
 {"date": "2014-02-17 00:00:00 -0500",
-"categories": ["teaching"],
-"tags": ["teaching","memory"],
-"title": "To remember and forget",
-"url": "/teaching/2014/02/17/memory-class.html"},
+"categories": [],
+"tags": [],
+"title": "Memory Class",
+"url": "/2014/02/17/memory-class.html"},
 
 {"date": "2014-02-11 00:00:00 -0500",
 "categories": ["blog"],
