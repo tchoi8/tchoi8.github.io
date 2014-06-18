@@ -7,7 +7,7 @@ categories:
 ---
 
 
-Correct use of art 
+Correct use of art.  
 
 <img src=https://farm3.staticflickr.com/2897/14448531125_fb5355efd1_b.jpg>
 
