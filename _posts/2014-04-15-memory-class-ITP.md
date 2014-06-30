@@ -7,7 +7,7 @@ categories:
 ---
  
 
-*This is a class proposal for <a href="http://itp.nyu.edu/sigs/program/">NYU ITP</a> in Fall of 2014.* 
+*This class is offered at <a href="http://itp.nyu.edu/sigs/program/">NYU ITP</a> on Fall of 2014.* 
 
 
 To Remember and Forget: Memory and Machine 
