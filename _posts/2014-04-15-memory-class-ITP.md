@@ -24,20 +24,21 @@ This class will explore the connection between neural plasticity and computation
 
 **Week 1 Memory and storage**
 
-How is memory shaped by technical reproduction and visual representation? Why is archive important and how can it be reanimated?
+How is memory shaped by technical reproduction and visual representation? Why is archive important and how can it be reanimated? 
 
-* Catherine Malabou, What Should We Do With Our Brain? (New York: Fordham University Press, 2009, trans. Sebastian Rand)
-* Susan Buck-Morss, Dreamworld and Catastrophe: The Passing of Mass Utopia in East and West (Cambridge: MIT Press, 2000)
+* Sigmund Freud, Notes upon the Mystic Writing Pad, 1925 *
 * Jacques Derrida, Archive desire: A Freudian Impression (University of Chicago Press,1998)
-*
+* Wendy Hui-kyung Chun, Programmed vision: Software and memory (The MIT Press,2011)
+* Susan Buck-Morss, Dreamworld and Catastrophe: The Passing of Mass Utopia in East and West (Cambridge: MIT Press, 2000)
 
-Student output: Read Jacques Derrida's Notes upon the Mystic Writing Pad and write 500 words or longer reflection on the class blog. 
+Student output: Read Freud's 'Notes upon the Mystic Writing Pad' as well as Jacques Derrida's response in Archive Fever. Write 500 words or longer reflection on the class blog. 
   
 **Week 2 Neural plasticity**
 
-What is the memory mechanisms in neurons? What is working memory and why is attention so important?
+What is the memory mechanisms in neurons? What is working memory and why is attention so important? 
 
 * Joseph LeDoux, Synaptic self: How are brains become who we are (London: Penguin Books, 2002)
+* Eric R. Kandel, In search of memory (W.W. Norton, 2006)  
 
 Student output: Students will present their ideas for a system to help them remember an event or specific memory. The project may take any form as long as it has an aspect of computation and participation. 
 
@@ -54,8 +55,10 @@ Student output: Students will present their first assignment. Their project may 
 
 For Proust, eating madeleine with tea brought back certain memory. In our daily activities related to taste, such as cooking, smelling and eating, we are reminded of past memory as we create new memory. What's happening now that the artificial flavoring industry have mastered engineering of taste as instigator of memory? Artists such as Conflict Kitchen, Rirkrit Tiravanija, Jonathan Cohrs use taste as the medium for social and aesthetic confrontation.
 
-* Julie Berger Hochstrasser, Still Life and Trade in the Dutch Golden Age (Yale University Press, 2007)
+* Marcel Proust, In search of lost time, Swann's way (1913): Excerpts provided 
 * Walter Benjamin, Berlin Childhood around 1900 (Belknap Press, 2006) 
+* Julie Berger Hochstrasser, Still Life and Trade in the Dutch Golden Age (Yale University Press, 2007)
+
 
 Student output: The class will have a picnic and students will tell a story about the memories related to the food they prepared. 
 
@@ -63,7 +66,8 @@ Student output: The class will have a picnic and students will tell a story abou
 
 What makes human presence different from animal or object? How do we feel comfort or fear in presence of another person? What kind of change happens in our consciousness in crowd and in solitude?
 
-* Alva Noë, Varieties of presence (Harvard University Press, 2012)  
+* Jonathan Crary, 24/7 Late capitalism and the ends of sleep (Verso,2014)
+* Alva Noë, Varieties of presence (Harvard University Press, 2012)   
 
 Student output: Students will present their ideas for device to help forget an event or a specific memory.  
 
@@ -71,6 +75,7 @@ Student output: Students will present their ideas for device to help forget an e
 
 How did the history of few disciplines; Cognitive Science, Human Compute Interaction and Art and Technology circa 1960’s appropriated and sometimes misused concepts of signal, feedback and entropy? 
 
+* Vannevar Bush, As we may think (The Atlantic, 1945)
 * Norbert Wiener, The Human Use of Human Beings, (Da Capo Press, March 22, 1988)
 * Bernard Stiegler, Technics and Time, 3: Cinematic Time and the Question of Malaise (Standford University Press, 2010)
 
@@ -78,7 +83,7 @@ Student output:  Students will break into groups of three and help each other br
 
 **Week 7 Technical objects** 
 
-What is Gilbert Simondon’s concept of tools and instruments? And why is his thoughts on technical objects, automation and open machine relevant now? 
+What is Gilbert Simondon’s concept of tools and instruments? And why is his thoughts on technical objects, automation and open machine relevant to human memory now? 
 
 * Gilbert Simondon, Du mode d’existence des objets techniques (Méot, 1958; second ed. Paris: Aubier, 1989). - English translation provided by the lecturer
 
