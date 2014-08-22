@@ -28,8 +28,12 @@ How is memory shaped by technical reproduction and visual representation? Why is
 
 * Sigmund Freud, Notes upon the Mystic Writing Pad, 1925 *
 * Jacques Derrida, Archive desire: A Freudian Impression (University of Chicago Press,1998)
+* Jacques Derrida, Freud and the scene of writing, Writing and Difference (Routledge, 2001)
 * Wendy Hui-kyung Chun, Programmed vision: Software and memory (The MIT Press,2011)
 * Susan Buck-Morss, Dreamworld and Catastrophe: The Passing of Mass Utopia in East and West (Cambridge: MIT Press, 2000)
+*  Ursula Marx, Gudrun Schwarz, Michael Schwarz, and Erdmut Wizisla, translated by Esther Leslie, Walter Benjamin's Archive (Verso, 2007)
+*  Walter Benjamin, Illuniations (New york: Schocken books, 1969)
+*  Walter Benjamin, Berlin Childhood around 1900 (Belknap Press, 2006)
 
 Student output: Read Freud's 'Notes upon the Mystic Writing Pad' as well as Jacques Derrida's response in Archive Fever. Write 500 words or longer reflection on the class blog. 
   
@@ -42,10 +46,11 @@ What is the memory mechanisms in neurons? What is working memory and why is atte
 
 Student output: Students will present their ideas for a system to help them remember an event or specific memory. The project may take any form as long as it has an aspect of computation and participation. 
 
-**Week 3 Affect** 
+**Week 3 Affect and emotion** 
 
 How do we fall in love? What is the difference between romantic love and euphoric states? What is the difference between emotions, feelings and affects? What now, if machines can feel? Artists have taken these question as an aesthetic exploration. For example,  Melanie Gilligan's video art that question the boundary between affects and currency, and Brody Condon’s participatory performance that reverse participation and spectatorship through game mechanics.  
 
+* Joseph LeDoux, Jacek Debiec, and Henry Moss, The self: from soul to brain (2002)
 * Andreas Bartels and Semir Zeki, The neural basis of romantic love (NeuroReport 11:3829- 3834)
 * Melanie Gilligan, Affects and Exchange (Fillip, Intangible economies, 2011) 
 
