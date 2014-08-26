@@ -24,25 +24,24 @@ This class will explore the connection between neural plasticity and computation
 
 **Week 1 Memory and storage**
 
-How is memory shaped by technical reproduction and visual representation? Why is archive important and how can it be reanimated? 
+How is memory shaped by technical reproduction and visual representation? Why is archive important and how can it be reanimated? This lecture sets ground for 7 weeks of investigation on the nature of memory and computing machine. 
 
-* Sigmund Freud, Notes upon the Mystic Writing Pad, 1925 *
+* Sigmund Freud, Notes upon the Mystic Writing Pad (1925) 
 * Jacques Derrida, Archive desire: A Freudian Impression (University of Chicago Press,1998)
 * Jacques Derrida, Freud and the scene of writing, Writing and Difference (Routledge, 2001)
-* Wendy Hui-kyung Chun, Programmed vision: Software and memory (The MIT Press,2011)
-* Susan Buck-Morss, Dreamworld and Catastrophe: The Passing of Mass Utopia in East and West (Cambridge: MIT Press, 2000)
 *  Ursula Marx, Gudrun Schwarz, Michael Schwarz, and Erdmut Wizisla, translated by Esther Leslie, Walter Benjamin's Archive (Verso, 2007)
 *  Walter Benjamin, Illuniations (New york: Schocken books, 1969)
 *  Walter Benjamin, Berlin Childhood around 1900 (Belknap Press, 2006)
 
 Student output: Read Freud's 'Notes upon the Mystic Writing Pad' as well as Jacques Derrida's response in Archive Fever. Write 500 words or longer reflection on the class blog. 
   
-**Week 2 Neural plasticity**
+**Week 2 Plasticity and computability **
 
-What is the memory mechanisms in neurons? What is working memory and why is attention so important? 
+What are the various ways of understanding memory in psychological, neurological and artistic approach? What is synapse and how does it work?  What is working memory and why is attention so important? What is computability in machine? What is the fundamental logic of computation? The concept of plasticity and computability will be explored throughout the semester in following lectures and different approaches.  
 
 * Joseph LeDoux, Synaptic self: How are brains become who we are (London: Penguin Books, 2002)
 * Eric R. Kandel, In search of memory (W.W. Norton, 2006)  
+* Wendy Hui-kyung Chun, Programmed vision: Software and memory (The MIT Press,2011)
 
 Student output: Students will present their ideas for a system to help them remember an event or specific memory. The project may take any form as long as it has an aspect of computation and participation. 
 
@@ -53,10 +52,11 @@ How do we fall in love? What is the difference between romantic love and euphori
 * Joseph LeDoux, Jacek Debiec, and Henry Moss, The self: from soul to brain (2002)
 * Andreas Bartels and Semir Zeki, The neural basis of romantic love (NeuroReport 11:3829- 3834)
 * Melanie Gilligan, Affects and Exchange (Fillip, Intangible economies, 2011) 
+* Catherine Malabou, What Should We Do With Our Brain? (New York: Fordham University Press, 2009, trans. Sebastian Rand).
 
 Student output: Students will present their first assignment. Their project may be presented in forms of video documentation and live performance. 
  
-**Week 4 Taste**
+**Week 4 Taste and smell**
 
 For Proust, eating madeleine with tea brought back certain memory. In our daily activities related to taste, such as cooking, smelling and eating, we are reminded of past memory as we create new memory. What's happening now that the artificial flavoring industry have mastered engineering of taste as instigator of memory? Artists such as Conflict Kitchen, Rirkrit Tiravanija, Jonathan Cohrs use taste as the medium for social and aesthetic confrontation.
 
@@ -67,16 +67,18 @@ For Proust, eating madeleine with tea brought back certain memory. In our daily 
 
 Student output: The class will have a picnic and students will tell a story about the memories related to the food they prepared. 
 
-**Week 5 Presence**
+**Week 5 Presence, objects and space**
 
-What makes human presence different from animal or object? How do we feel comfort or fear in presence of another person? What kind of change happens in our consciousness in crowd and in solitude?
+What makes human presence different from animal or object? How do we feel comfort or fear in presence of another person? What kind of change happens in our consciousness in crowd and in solitude? How are human memory affected by the presence of inanimate objects and space? We will look at few memorabilia and monument as examples.  
 
 * Jonathan Crary, 24/7 Late capitalism and the ends of sleep (Verso,2014)
 * Alva Noë, Varieties of presence (Harvard University Press, 2012)   
+* Susan Buck-Morss, Dreamworld and Catastrophe: The Passing of Mass Utopia in East and West (Cambridge: MIT Press, 2000)
+
 
 Student output: Students will present their ideas for device to help forget an event or a specific memory.  
 
-**Week 6 Cybernetics**
+**Week 6 Cybernetic dream**
 
 How did the history of few disciplines; Cognitive Science, Human Compute Interaction and Art and Technology circa 1960’s appropriated and sometimes misused concepts of signal, feedback and entropy? 
 
