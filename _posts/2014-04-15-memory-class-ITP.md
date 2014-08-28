@@ -35,7 +35,7 @@ How is memory shaped by technical reproduction and visual representation? Why is
 
 Student output: Read Freud's 'Notes upon the Mystic Writing Pad' as well as Jacques Derrida's response in Archive Fever. Write 500 words or longer reflection on the class blog. 
   
-**Week 2 Plasticity and computability **
+**Week 2 Plasticity and computability**
 
 What are the various ways of understanding memory in psychological, neurological and artistic approach? What is synapse and how does it work?  What is working memory and why is attention so important? What is computability in machine? What is the fundamental logic of computation? The concept of plasticity and computability will be explored throughout the semester in following lectures and different approaches.  
 
