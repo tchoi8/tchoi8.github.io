@@ -6,7 +6,9 @@ categories:
 - blog
 ---
 Performing participation
+
 Instructor: Taeyoon Choi 
+
 Class proposal for Spring 2015.
  
 Is there a secret script behind our participation in everyday events? What are the factors that are engineered into human experience? This class will explore the codes of participation embedded in technological spectacle of daily life by staging experimental happenings. Happening, a term coined by a performance artist Allan Kapprow in the 50s, transforms gallery space as an interface for unconventional situations to occur and the public space as a site of confrontation and stimulation. Contemporary performance artists create work outside of division of staged and timed events, toward art work that seeks to establish sense of presence and communing. Audience participation is also the key element in constructing affective and experiential system for technology products, as the terms like User Experience and Interaction Design become common in the design and marketing industry. This class will look at participation as an artistic medium and to reflect on existing modes of participation with critical lens. Typical class will be divided by 40% lecture and 60% student participation through discussion and activities. 
