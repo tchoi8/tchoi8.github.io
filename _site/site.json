@@ -1,5 +1,23 @@
 [
 
+{"date": "2015-06-03 00:00:00 -0400",
+"categories": ["proposal"],
+"tags": ["research","collaboration"],
+"title": "New Sites",
+"url": "/proposal/2015/06/03/NewSites.html"},
+
+{"date": "2014-10-23 00:00:00 -0400",
+"categories": ["blog"],
+"tags": [],
+"title": "Performing participation",
+"url": "/blog/2014/10/23/PerformingParticipation.html"},
+
+{"date": "2014-10-07 00:00:00 -0400",
+"categories": ["blog"],
+"tags": [],
+"title": "SFPC 10-7-2014",
+"url": "/blog/2014/10/07/SFPC-1.html"},
+
 {"date": "2014-06-17 00:00:00 -0400",
 "categories": ["blog"],
 "tags": [],
@@ -9,18 +27,18 @@
 {"date": "2014-04-20 00:00:00 -0400",
 "categories": ["blog"],
 "tags": [],
-"title": "GLL",
+"title": "Green Living Lab",
 "url": "/blog/2014/04/20/GreenLab.html"},
 
 {"date": "2014-04-16 00:00:00 -0400",
-"categories": [],
+"categories": ["blog"],
 "tags": [],
 "title": "Migration",
-"url": "/2014/04/16/Migration.html"},
+"url": "/blog/2014/04/16/Migration.html"},
 
 {"date": "2014-04-15 00:00:00 -0400",
 "categories": ["proposal"],
-"tags": ["research","collaboration"],
+"tags": [],
 "title": "To Remember and Forget - Memory and Machine",
 "url": "/proposal/2014/04/15/memory-class-ITP.html"},
 
