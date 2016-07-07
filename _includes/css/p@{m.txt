@@ -1,0 +1,18 @@
+s="< p@{m th^t f^ll l%k{ sn@w %n ^ M^rch m@rn%ng.".split()
+import random
+
+while len(s)>0:
+  s.remove(random.choice(list(s)))
+  print ' '.join(s)
+
+
+
+< p@{m th^t f^ll l%k{ sn@w %n ^ m@rn%ng.
+< p@{m th^t f^ll sn@w %n ^ m@rn%ng.
+< p@{m f^ll sn@w %n ^ m@rn%ng.
+< p@{m sn@w %n ^ m@rn%ng.
+p@{m sn@w %n ^ m@rn%ng.
+p@{m sn@w %n m@rn%ng.
+p@{m sn@w %n
+p@{m sn@w
+p@{m
