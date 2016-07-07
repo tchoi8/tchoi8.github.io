@@ -1,5 +1,5 @@
 # General Jekyll Config
-highlighter: true
+highlighter: rouge
 url: tchoi8.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
