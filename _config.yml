@@ -6,7 +6,7 @@ exclude: [LICENSE, CNAME, README.md, .gitignore]
 markdown: kramdown
 
 # Theme customization - please change from the defaults!
-theme:
+theme: jekyll-theme-minimal
   # Color for top bar, links, etc
   highlight_color: '#00CC00'
 
