@@ -2,9 +2,14 @@
 layout: post
 title: Performing participation 
 excerpt: Is there a secret script behind our participation in everyday events?
+tags: 
+- teaching
+
 categories:
 - blog
 ---
+
+ 
 Performing participation
 
 Instructor: Taeyoon Choi 

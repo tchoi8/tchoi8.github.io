@@ -2,8 +2,8 @@
 
 {"date": "2018-03-20 00:00:00 -0400",
 "categories": ["blog"],
-"tags": ["research","collaboration"],
-"title": "new test",
+"tags": ["pop culture"],
+"title": "testing the site",
 "url": "/blog/2018/03/20/nextest.html"},
 
 {"date": "2017-01-01 00:00:00 -0500",
@@ -26,7 +26,7 @@
 
 {"date": "2014-10-23 00:00:00 -0400",
 "categories": ["blog"],
-"tags": [],
+"tags": ["teaching"],
 "title": "Performing participation",
 "url": "/blog/2014/10/23/PerformingParticipation.html"},
 
@@ -83,6 +83,12 @@
 "tags": [],
 "title": "To remember and forget",
 "url": "/blog/2014/02/17/memory-class.html"},
+
+{"date": "2014-02-12 00:00:00 -0500",
+"categories": ["blog"],
+"tags": ["pop culture","girls"],
+"title": "not going on a blind date",
+"url": "/blog/2014/02/12/LOLZ.html"},
 
 {"date": "2014-02-11 00:00:00 -0500",
 "categories": ["blog"],
