@@ -1,30 +1,29 @@
 # General Jekyll Config
-highlighter: true
+highlighter: rouge
 url: tchoi8.github.io
- 
+lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
- 
-
- 
- encoding: UTF-8
- kramdown:
-   input: GFM
-   hard_wrap: false
- future: true
- jailed: false
-gfm_quirks: paragraph_end
- 
+markdown: kramdown
 
 # Theme customization - please change from the defaults!
-theme: jekyll-theme-minimal
+theme:
+  # Color for top bar, links, etc
+  highlight_color: '#00CC00'
 
- lsi: false
- safe: true
- source: [your repo's top level directory]
- incremental: false
- highlighter: rouge
- gist:
-   noscript: false
- kramdown:
-   math_engine: mathjax
-   syntax_highlighter: rouge
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: tchoi8
+    twitter: tchoi8
+    facebook: taeyoon.choi.7
+    
+
+  # "Hi, I'm _______"
+  name: Taeyoon Choi
+  email: me@taeyoonchoi.com
+  tagline: "bored but curious"
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-xxxx-x
+
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: true
