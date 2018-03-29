@@ -1,4 +1,5 @@
 # General Jekyll Config
+pygments: true
 highlighter: true
 url: tchoi8.github.io
 lsi: false
