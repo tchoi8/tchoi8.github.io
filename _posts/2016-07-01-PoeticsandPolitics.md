@@ -2,6 +2,9 @@
 layout: post
 title: New class at SFPC
 excerpt: Teaching
+
+tags: 
+- research
 categories:
 - blog
 ---

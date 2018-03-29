@@ -1,10 +1,10 @@
 [
 
 {"date": "2018-03-20 00:00:00 -0400",
-"categories": [],
+"categories": ["blog"],
 "tags": ["research","collaboration"],
 "title": "new test",
-"url": "/updating/"},
+"url": "/blog/2018/03/20/nextest.html"},
 
 {"date": "2017-01-01 00:00:00 -0500",
 "categories": [],
@@ -14,7 +14,7 @@
 
 {"date": "2016-07-01 00:00:00 -0400",
 "categories": ["blog"],
-"tags": [],
+"tags": ["research"],
 "title": "New class at SFPC",
 "url": "/blog/2016/07/01/PoeticsandPolitics.html"},
 
@@ -87,7 +87,7 @@
 {"date": "2014-02-11 00:00:00 -0500",
 "categories": ["blog"],
 "tags": ["pop culture","girls"],
-"title": "going on a date",
+"title": "going on a blind date",
 "url": "/blog/2014/02/11/dating.html"},
 
 {"date": "2014-02-01 00:00:00 -0500",
