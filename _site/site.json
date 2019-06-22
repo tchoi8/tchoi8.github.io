@@ -1,10 +1,22 @@
 [
 
 {"date": "2018-03-20 00:00:00 -0400",
-"categories": ["blog"],
+"categories": [],
 "tags": ["pop culture"],
-"title": "testing the site",
-"url": "/blog/2018/03/20/nextest.html"},
+"title": "Next test",
+"url": "/nextest/"},
+
+{"date": "2018-03-19 00:00:00 -0400",
+"categories": ["proposal"],
+"tags": ["research","collaboration"],
+"title": "Distributed Web of Care",
+"url": "/proposal/2018/03/19/DWC.html"},
+
+{"date": "2017-01-01 00:00:00 -0500",
+"categories": [],
+"tags": ["research","collaboration"],
+"title": "Updating 2",
+"url": "/updating/"},
 
 {"date": "2017-01-01 00:00:00 -0500",
 "categories": [],
@@ -13,10 +25,10 @@
 "url": "/updating/"},
 
 {"date": "2016-07-01 00:00:00 -0400",
-"categories": ["blog"],
-"tags": ["research"],
-"title": "New class at SFPC",
-"url": "/blog/2016/07/01/PoeticsandPolitics.html"},
+"categories": ["proposal"],
+"tags": ["research","collaboration"],
+"title": "class",
+"url": "/proposal/2016/07/01/PoeticsandPolitics.html"},
 
 {"date": "2015-06-03 00:00:00 -0400",
 "categories": ["proposal"],
